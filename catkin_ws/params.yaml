@@ -1,0 +1,12 @@
+background_b: 255
+background_g: 86
+background_r: 150
+rosdistro: 'kinetic
+
+  '
+roslaunch:
+  uris: {host_josh_virtualbox__39221: 'http://josh-VirtualBox:39221/'}
+rosversion: '1.12.14
+
+  '
+run_id: 10b50a7c-40d8-11e9-a343-080027e7431c
